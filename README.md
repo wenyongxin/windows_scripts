@@ -1,3 +1,7 @@
 说明：
 
 该目录中的脚本一切围绕这zabbix监控实现。因为windows默认支持的脚本编写只有bat与vb相对比较好些。如果要使用其它的编程语言要进行安装配置。使用bat能够提高效率减少不必要的重复性操作
+
+
+check_firewall.bat
+可以通过zabbix来监控windows的防火墙状态
