@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SNMP\Parameters\PermittedManagers]
+"1"="127.0.0.1"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SNMP\Parameters\ValidCommunities]
+"efun"=dword:00000004
+
