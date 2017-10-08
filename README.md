@@ -4,4 +4,14 @@
 
 
 check_firewall.bat
-可以通过zabbix来监控windows的防火墙状态
+
+zabbix可以通过该脚本获取当前windows主机的防火墙的状态。
+返回值 0 关闭
+返回值 1 开启
+
+
+
+discovery_interface_windows.bat
+
+zabbix可以通过该脚本获取windows的网卡事情，结合snmpwalk工具能够自动的区分内/外网卡名称标记，实现网卡的分离
+
