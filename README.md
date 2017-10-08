@@ -15,3 +15,7 @@ discovery_interface_windows.bat
 
 zabbix可以通过该脚本获取windows的网卡事情，结合snmpwalk工具能够自动的区分内/外网卡名称标记，实现网卡的分离
 
+
+
+欢迎各位技术人员共同交流：
+QQ号：576147914
